@@ -1,0 +1,581 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"ApplicationPath"="D:\\Documents\\Programs\\PhotoshopCS6\\App\\PhotoshopCS6\\"
+"PluginPath"="D:\\Documents\\Programs\\PhotoshopCS6\\App\\PhotoshopCS6\\Plug-Ins\\"
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+@="D:\\Documents\\Programs\\PhotoshopCS6\\App\\PhotoshopCS6\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+@="D:\\Documents\\Programs\\PhotoshopCS6\\App\\PhotoshopCS6\\Plug-Ins\\"
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp]
+"iScannedVersion"=dword:00160300
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AdobeViewer]
+"EULAAcceptedForBrowser"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVEntitlement]
+"bAppInitialized"=dword:00000001
+"iEntitlementLevel"=dword:00000001
+"iIPMDiffClientIdThreshold"=dword:00000005
+"iIPMNGLCEFThreshold"=dword:00000064
+"iIPMNGLWinHttpAsyncThreshold"=dword:0000000a
+"bIsNGLLicensing"=dword:00000001
+"bNGLWinHttpAsyncAvailable"=dword:00000000
+"bNGLWinHttpAsyncEnabled"=dword:00000000
+"bSynchronizeNGL"=dword:00000001
+"bUseDifferentIMSClientId"=dword:00000000
+"sAppEntitlementStatus"=hex:4e,4f,56,41,4c,55,45,00
+"sDeviceID"=hex:00
+"sProductVersion"=hex:31,32,2e,30,00
+"sUserEmail"=hex:00
+"sUserGUID"=hex:00
+"sProductName"=hex:41,64,6f,62,65,20,41,63,72,6f,62,61,74,00
+"sProductGUID"=hex:41,43,52,4f,5f,52,45,53,49,44,55,45,00
+"bActivated"=dword:00000000
+"bSynchronizeOPL"=dword:00000000
+"bIsDataValidForNGL"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral]
+"aActiveUITheme"="DarkTheme"
+"bHonorOSTheme"=dword:00000001
+"bIsEnterpriseUser"=dword:00000000
+"bIsNewUser"=dword:00000001
+"bNewUserForModernization"=dword:00000001
+"iNumAcrobatLaunches"=dword:00000002
+"uThemeBackgroundColor"=dword:004d4d4d
+"bTrySystemTheme"=dword:00000000
+"bAddCustomFile"=dword:00000000
+"iAdobeSignSurveyVariant"=dword:00000000
+"iContextPopupOption"=dword:00000002
+"aDefaultRHPViewMode_L"="Expanded"
+"bEnableEchoSignAuthViaCEF"=dword:00000000
+"bEnableEditSubToolsExp"=dword:00000000
+"iEnableOutlookEditTool"=dword:00000000
+"bExpandRHPInViewer"=dword:00000001
+"bFieldDetectionEnableWithIPM"=dword:00000000
+"bForceQuitApp"=dword:00000000
+"bIMSThrottlingDisabledViaIPM"=dword:00000000
+"bIsCustomJSPresent"=dword:00000000
+"bIsUserSignedInFromChina"=dword:00000000
+"uLastAppLaunchTimeStamp"=dword:9ce6aa40
+"iLastRepairTried"=dword:00004bd9
+"iNumOfAVDocsOpened"=dword:00000001
+"iNumSessionAV"=dword:00000001
+"iNumUserDockUndockHUD"=dword:00000000
+"bOpenCommentAppAutomatically"=dword:00000001
+"bPromptRequestSignAfterEdit"=dword:00000000
+"bPromptRequestSignAttachToEmail"=dword:00000000
+"bRequestSignInFileMenu"=dword:00000001
+"bSignInPromptReader"=dword:00000000
+"iUpdaterErrorTime"=dword:629226d3
+"uWhatsNewExpContentRotation"=dword:00000001
+"bappFirstLaunchForNotifications"=dword:00000000
+"bisFirstLaunch"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cAcrobatUpsellTracking]
+"tTrackingParam"="IPM*RDR12-ALL-ACOM-202110*RGS0087*EN*FTEtry*Challenger1"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cEditMenuRationalizeExperiment]
+"iVariant"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c1]
+"aFS"="DOS"
+"tDIText"="/D/Documents/Downloads/Library-reservation-system.pdf"
+"tFileName"="Library-reservation-system.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,44,6f,63,75,6d,65,6e,74,73,2f,44,6f,77,6e,6c,6f,61,64,73,2f,\
+  4c,69,62,72,61,72,79,2d,72,65,73,65,72,76,61,74,69,6f,6e,2d,73,79,73,74,65,\
+  6d,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,33,30,33,30,31,31,39,32,30,31,33,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:000155ee
+"uPageCount"=dword:00000007
+"bisSharedFile"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c2]
+"aFS"="CHTTP"
+"tDIText"="http://www.adobe.com/go/homeacrordrunified18_2018"
+"tFileName"="Welcome.pdf"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:68,74,74,70,3a,2f,2f,77,77,77,2e,61,64,6f,62,65,2e,63,6f,6d,2f,67,6f,\
+  2f,68,6f,6d,65,61,63,72,6f,72,64,72,75,6e,69,66,69,65,64,31,38,5f,32,30,31,\
+  38,00
+"sDate"=hex:44,3a,32,30,32,33,30,33,30,31,31,37,35,38,35,38,2b,30,38,27,30,30,\
+  27,00
+"bisSharedFile"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFolders]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFolders\c1]
+"sDI"=hex:2f,44,2f,44,6f,63,75,6d,65,6e,74,73,2f,44,6f,77,6e,6c,6f,61,64,73,2f,\
+  00
+"tDIText"="/D/Documents/Downloads/"
+"tDisplayText"="Downloads"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRHPAlignmentExperiment]
+"iVariant"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cTaskPanes]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cTaskPanes\cBasicCommentPane]
+"bAllowMultipleExpandedPanels"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cUUIDs]
+"suser"=hex:33,36,61,36,38,61,66,65,2d,66,62,34,39,2d,34,38,32,64,2d,39,34,64,\
+  34,2d,64,65,61,33,32,37,34,37,38,34,35,31,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVPrivate]
+"NewUserForModernizationFlushed2"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\DiskCabs]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\DLLInjection]
+"bBlockDLLInjection"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\ExitSection]
+"bLastExitNormal"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\FillSign]
+"iFSSVariant"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\FlashDebug]
+"bAutomationEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\FTEDialog]
+"bFTEHomeOrViewerTourDialogueLaunched"=dword:00000001
+"iFTEVersion"=dword:0000000a
+"iLastCardShown"=dword:00000000
+"bWelcomeCard_RdrInstall"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\HomeWelcomeFirstMile]
+"iCardCountShown"=dword:00000001
+"iCurrentRHSCard"=dword:00000012
+"bHasShownSignInCard"=dword:00000001
+"sLastTimeShown"=hex:32,33,30,33,30,31,30,39,35,38,35,37,5a,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Installer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Installer\Migrated]
+"{AC76BA86-1033-1033-7760-BC15014EA700}"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Language]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Language\current]
+@="acrobat.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Language\next]
+@="acrobat.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Language\UseMUI]
+"bUseMUI"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\OnBoardingSection]
+"sappVersion"=hex:32,34,32,32,33,00
+"ihomeViewVersion"=dword:00000000
+"slocale"=hex:65,6e,2d,75,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\OnBoardingSection\chomeView]
+"sBannerContent"=hex:57,6f,72,6b,20,6f,6e,20,74,68,65,20,67,6f,20,77,69,74,68,\
+  20,74,68,65,20,41,64,6f,62,65,20,41,63,72,6f,62,61,74,20,52,65,61,64,65,72,\
+  20,61,70,70,2e,20,41,6e,6e,6f,74,61,74,65,2c,20,73,69,67,6e,2c,20,61,6e,64,\
+  20,73,68,61,72,65,20,50,44,46,73,20,6f,6e,20,79,6f,75,72,20,70,68,6f,6e,65,\
+  2c,20,61,6e,64,20,65,64,69,74,20,6f,6e,20,74,61,62,6c,65,74,73,2e,00
+"sBannerTitle"=hex:47,65,74,20,41,70,70,00
+"sCardContent"=hex:41,63,72,6f,62,61,74,4d,6f,62,69,6c,65,43,61,72,64,00
+"sCardTitle"=hex:4d,6f,62,69,6c,65,41,63,72,6f,62,61,74,43,61,72,64,00
+"sCardType"=hex:4c,61,75,6e,63,68,46,54,45,43,61,72,64,00
+"sOffset"=hex:34,33,38,30,30,00
+"ifirst_display"=dword:00071c61
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Originals]
+"bDisplayedSplash"=dword:00000001
+"sProofingSpace"=hex:55,2e,53,2e,20,57,65,62,20,43,6f,61,74,65,64,20,28,53,57,\
+  4f,50,29,20,76,32,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Privileged]
+"bAccReportPrefMigrated"=dword:00000001
+"bTouchUpPrefMigrated"=dword:00000001
+"bOldRecentFilesMigrated"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SCA]
+"bIsLastReaderSession"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SDI]
+"bMaximizeNextDocument"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security]
+"bEnableCCLibrary"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Selection]
+"aDefaultSelect"="Select"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement]
+"bNormalExit"=dword:00000000
+"bWaitForSignIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsCurrent]
+"iWinCount"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsCurrent\cWin0]
+"iTabCount"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsCurrent\cWin0\cTab0]
+"tfilename"="Library-reservation-system.pdf"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsCurrent\cWin0\cTab0\cPathInfo]
+"sDI"=hex:2f,44,2f,44,6f,63,75,6d,65,6e,74,73,2f,44,6f,77,6e,6c,6f,61,64,73,2f,\
+  4c,69,62,72,61,72,79,2d,72,65,73,65,72,76,61,74,69,6f,6e,2d,73,79,73,74,65,\
+  6d,2e,70,64,66,00
+"tDIText"="/D/Documents/Downloads/Library-reservation-system.pdf"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsPrev]
+"iWinCount"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsPrev\cWin0]
+"iTabCount"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsPrev\cWin0\cTab0]
+"tfilename"="Library-reservation-system.pdf"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsPrev\cWin0\cTab0\cPathInfo]
+"sDI"=hex:2f,44,2f,44,6f,63,75,6d,65,6e,74,73,2f,44,6f,77,6e,6c,6f,61,64,73,2f,\
+  4c,69,62,72,61,72,79,2d,72,65,73,65,72,76,61,74,69,6f,6e,2d,73,79,73,74,65,\
+  6d,2e,70,64,66,00
+"tDIText"="/D/Documents/Downloads/Library-reservation-system.pdf"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\ToolsSearch]
+"iSearchHintIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Gamma]
+"GammaCrashed"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\ACPMigrationAcrobat]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\Acrobat.com]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\Acrobat.com.v2]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\CredentialsV4]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\WebServers]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\CRLog]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\Exchange-Pro DC]
+"optin"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\UsageCC]
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="587DA1B0CA1202FFA5FB47FA88D0C"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-06-03T14:38:34.6161Z]
+@="C:\\Users\\Asus\\Desktop\\MORALES\\morales.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-06-03T14:39:08.7102Z]
+@="C:\\Users\\Asus\\Desktop\\morales.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-10-06T16:27:16.8181Z]
+@="C:\\Users\\kpvso\\Downloads\\48b3172afa2a1a3eeffd4a933424e5cb (1).jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-10-12T02:31:16.9231Z]
+@="C:\\Users\\kpvso\\Desktop\\245505754_615105806322379_1225233507231522988_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-10-12T02:38:35.2912Z]
+@="C:\\Users\\kpvso\\Desktop\\E-Signs\\Ricafort.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-11-23T16:14:17.3981Z]
+@="C:\\Users\\kpvso\\Desktop\\Cover Photos\\PLMun-Bldg-Additional.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-11-23T17:20:19.5442Z]
+@="C:\\Users\\kpvso\\Desktop\\Cover Photos\\f84b8ca92442540bc2e36b357a4fc4c0.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-11-23T17:25:28.4093Z]
+@="C:\\Users\\kpvso\\Desktop\\Cover Photos\\01-hexfield.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2021-11-26T16:47:27.6720Z]
+@="C:\\Users\\kpvso\\Desktop\\Cover Photos\\MBA Cover.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T10:20:07.2920Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\ORIENTATION\\274230957_2015643178641368_226787345417622850_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T10:25:25.7401Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\ORIENTATION\\274281648_285386436987262_728471723560145805_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T10:44:09.6562Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\ORIENTATION\\tumblr_o4th7rs1yU1unefbyo1_1280.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T10:51:25.9373Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\ORIENTATION\\274143579_4733227783452703_2325727077065894937_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T11:14:22.6460Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\Untitled-1-Recovered.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T11:20:15.3481Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\ORIENTATION\\channels4_profile.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T12:18:00.3558Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\Banner with Announcement.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T12:19:35.5419Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\Banner only.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T12:20:14.58010Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\announcement.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T12:22:51.23311Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\Banner only 2.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T12:23:09.97212Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\ORIENTATION\\tumblr_o4ti6j8k6r1unefbyo1_400.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T13:12:16.3870Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\banner\\Banner only.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T13:28:17.8361Z]
+@="C:\\Users\\kpvso\\Desktop\\2022 MULTIMEDIA DESIGN\\banner\\announcement.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-02-27T13:34:30.1530Z]
+@="C:\\Users\\kpvso\\Desktop\\PERSONAL\\VILLANUEVA, KIRSTEN PATRICIA O\\TOGA\\PLM gradpic2020.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-07T01:02:03.3390Z]
+@="D:\\Documents\\Photoshop\\2x2.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T01:39:16.8050Z]
+@="D:\\Pictures\\Saved Pictures\\Memes\\khabane lame.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T04:06:12.5250Z]
+@="D:\\Documents\\Downloads\\MICHAEL ANGELO HERNANDEZ - CHANGING EYE COLOR.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T04:35:05.191Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 4\\MICHAEL ANGELO HERNANDEZ - CHANGING EYE COLOR.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T04:35:37.9380Z]
+@="D:\\Pictures\\Photoshop\\Photos\\2x2 (LQ).jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T11:25:15.5380Z]
+@="D:\\Documents\\Downloads\\MICHAEL ANGELO HERNANDEZ - Converting Color Photos To Black and White In Photoshop.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T11:35:20.8591Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 4\\MICHAEL ANGELO HERNANDEZ - Converting Color Photos To Black and White In Photoshop.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T11:35:38.8032Z]
+@="D:\\Documents\\Downloads\\MICHAEL ANGELO HERNANDEZ - How To Whiten Teeth In Photoshop.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T11:54:53.4113Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 4\\MICHAEL ANGELO HERNANDEZ - How To Whiten Teeth In Photoshop.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T11:55:05.1064Z]
+@="D:\\Documents\\Downloads\\MICHAEL ANGELO HERNANDEZ - Easy Selective Color Effect With Photoshop.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-21T12:37:45.4275Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 4\\MICHAEL ANGELO HERNANDEZ - Easy Selective Color Effect With Photoshop.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-23T02:08:28.500Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 4\\Hernandez_EasySelectiveColorEffectWithPhotoshop.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-29T06:29:44.9190Z]
+@="D:\\Documents\\Downloads\\277117786_349354540575104_4915576921297328293_n.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-29T07:16:17.7140Z]
+@="D:\\Documents\\Downloads\\white-background-2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-03-29T07:47:49.600Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 5\\Hernandez_CustomShapesAsText.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-05T10:16:22.2090Z]
+@="D:\\Documents\\Downloads\\MICHAEL ANGELO HERNANDEZ - background-image.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-05T10:49:24.6500Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 6\\Hernandez_GradientText.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-05T11:59:47.4870Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 6\\Hernandez_TransformText.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-06T00:47:02.6750Z]
+@="D:\\Documents\\Downloads\\Lopena_TransformText.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-06T11:44:01.660Z]
+@="D:\\Pictures\\Screenshots\\Screenshot (291).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-16T13:52:44.210Z]
+@="D:\\Pictures\\Screenshots\\Screenshot (299).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-20T11:58:15.331Z]
+@="D:\\Documents\\Downloads\\sample 1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-20T12:03:14.3032Z]
+@="D:\\Documents\\Downloads\\278504873_1093503574548785_5019442427571997321_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-20T12:04:11.4363Z]
+@="D:\\Pictures\\Photoshop\\Photos\\2x2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-20T12:14:11.1810Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 8\\week 8.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-21T03:41:27.9310Z]
+@="D:\\Pictures\\Screenshots\\Screenshot (272).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-21T03:46:48.4870Z]
+@="D:\\Pictures\\Photoshop\\Files\\score.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-04-27T02:32:24.3020Z]
+@="D:\\Pictures\\Photoshop\\Files\\2x2.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-15T06:48:42.4080Z]
+@="D:\\Documents\\Downloads\\cwr4othy3ie51.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-15T06:57:27.2761Z]
+@="D:\\Pictures\\Photoshop\\Files\\doomer.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-25T09:26:32.9360Z]
+@="D:\\Documents\\temp\\IMG_20220525_100450.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-25T09:55:06.4341Z]
+@="D:\\Documents\\temp\\IMG_20220525_100354.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-25T09:59:23.6130Z]
+@="D:\\Documents\\temp\\IMG_20220525_101745.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-25T10:31:00.9262Z]
+@="D:\\Documents\\temp\\IMG_20220525_101656.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-25T10:31:17.1173Z]
+@="D:\\Documents\\temp\\IMG_20220525_101640.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-25T10:31:35.8474Z]
+@="D:\\Documents\\temp\\IMG_20220525_101717.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-25T10:38:14.9885Z]
+@="D:\\Documents\\temp\\IMG_20220525_101811.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-25T10:45:45.9256Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 13\\Week 13 - Multiplicity.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-05-25T10:46:09.477Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 13\\Week 13 - Levitation.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:07:58.7790Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\Screenshot (334).png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:28:40.972Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\logo-natin.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:36:24.5743Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\Facebook-logo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:40:18.7674Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\Hernandez_login.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:40:56.7135Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\Screenshot_20220601_075535.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:45:26.2706Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\Hernandez_homepage.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:46:12.7487Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\Screenshot_20220601-075616.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:48:07.5128Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\Hernandez_profile.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:48:21.7959Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\Screenshot_20220601_080251.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-01T00:50:25.44510Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 14\\Hernandez_notification.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-13T02:03:32.1582Z]
+@="D:\\Documents\\Downloads\\282248930_5282348978511325_3598112131471082805_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-13T02:23:08.9053Z]
+@="D:\\Documents\\Downloads\\fire-icons-with-and-spurts-of-flame-vector-set-of-monochrome-signs-in-ink-hand-drawing-sketching-style-for-tattoo-or-print-design-2E50Y7C.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-13T03:02:48.7184Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 15\\Hernandez&Cuevas_Week15.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-14T23:51:27.1940Z]
+@="D:\\Documents\\Downloads\\hand-painted-background-violet-orange-colours_23-2148427578.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-06-14T23:59:12.2211Z]
+@="D:\\Documents\\School\\Schoolworks\\PLMUN\\1st Year\\2nd Sem\\Multimedia Design\\Activity\\Week 16\\Week 16.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2022-08-18T04:57:25.4560Z]
+@="D:\\Documents\\Downloads\\mico birthcert.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-03-01T11:16:46.4860Z]
+@="D:\\Pictures\\Photoshop\\Files\\Pert_Chart.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-04-05T04:58:29.8040Z]
+@="D:\\Documents\\Downloads\\299829763_810231506649826_4787001592224478350_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-07-07T12:07:43.50Z]
+@="D:\\Pictures\\Photoshop\\solar energy.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-07-07T12:29:37.6891Z]
+@="D:\\Pictures\\Photoshop\\Files\\solar energy.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-07-07T13:06:21.4290Z]
+@="D:\\Documents\\Downloads\\page0.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-07-07T13:08:44.9531Z]
+@="D:\\Pictures\\Photoshop\\Files\\energy_saving.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-07-07T13:18:56.7440Z]
+@="D:\\Documents\\Downloads\\Flying-Fox.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-07-07T13:34:03.2431Z]
+@="D:\\Pictures\\Photoshop\\Files\\inforgraph.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000001
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[449,13,853,945]"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="D:\\Pictures\\Photoshop\\Photos\\"
